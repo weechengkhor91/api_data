@@ -1,20 +1,11 @@
 {
-  "code": 200,
-  "totalCount":2,
-  "data": [
-      {
-          "id": "1602828690882"
-
-
-         
-      },
-      {
-          "id": "2"
-
-
-          
-      }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  "msg": "成功"
-
+  "profile": {
+    "name": "typicode"
+  }
 }
