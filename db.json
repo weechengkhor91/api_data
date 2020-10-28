@@ -1,11 +1,13 @@
 {
+  "code":200,
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1602828690882",
+      "name": "TEST1",
+    },
+       {
+      "id": "1602828690883",
+      "name": "TEST2",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
